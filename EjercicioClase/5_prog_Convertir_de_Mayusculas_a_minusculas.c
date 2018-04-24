@@ -1,20 +1,20 @@
 /*------------------------------------------------------------*/
-/* Autor: Hern�ndez Jim�nez Jes�s                             */
+/* Autor: Hernández Jiménez Jesús                             */
 /* E-mail: jesushernandezjimenez1998@gmail.com                */
-/* Fecha de creaci�n: 22/04/2018                              */
-/* Fecha de actualizaci�n:                                    */
-/* Descripci�n: Programa que convierte de a may�sculas        */
-/*              min�sculas.                                   */
+/* Fecha de creación: 22/04/2018                              */
+/* Fecha de actualización:                                    */
+/* Descripción: Programa que convierte de a mayúsculas        */
+/*              minúsculas.                                   */
 /*------------------------------------------------------------*/
 
 
 
-/* Declaraci�n de bibliotecas */
+/* Declaración de bibliotecas */
 #include <stdio.h>
 
 #define TAM 10
 
-/* Declaraci�n de la funci�n principal */
+/* Declaración de la función principal */
 int main(void)
 {
     int i;

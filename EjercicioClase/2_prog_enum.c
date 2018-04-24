@@ -1,9 +1,9 @@
 /*------------------------------------------------------------*/
-/* Autor: Hern�ndez Jim�nez Jes�s                             */
+/* Autor: Hernández Jiménez Jesús                             */
 /* E-mail: jesushernandezjimenez1998@gmail.com                */
-/* Fecha de creaci�n: 22/04/2018                              */
-/* Fecha de actualizaci�n:                                    */
-/* Descripci�n: Programa que hace uso del tipo de dato enum.  */
+/* Fecha de creación: 22/04/2018                              */
+/* Fecha de actualización:                                    */
+/* Descripción: Programa que hace uso del tipo de dato enum.  */
 /*------------------------------------------------------------*/
 
 
