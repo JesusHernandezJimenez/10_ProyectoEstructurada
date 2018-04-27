@@ -3,7 +3,8 @@
 /* E-mail: jesushernandezjimenez1998@gmail.com                */
 /* Fecha de creación: 24/04/2018                              */
 /* Fecha de actualización: 25/04/2018                         */
-/* Descripción: Programa que                                  */
+/* Descripción: Programa que muestra números aleatorios del   */
+/*              1-100.
 /*------------------------------------------------------------*/
 
 #include <stdio.h>
